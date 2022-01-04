@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hlwSzMC+9LmDKLFKgRywGB7X/Bsr8sLQZyrbkRUobnNLPwGyGA61AgIndwwzuS+d+0vymGMBBp4Wz4/VRrI1DQ==",
+  "dgSpecHash": "p5qN/eIReg2bKHOkPl9NT79+bIyBtXR2mxANExrt6IpuuY+CxZDHD+BoWJl5CKJOwRZUdVUMOoqtrLWCGTTTew==",
   "success": true,
-  "projectFilePath": "D:\\vs2019\\TestApplication\\TestApplication\\TestApplication.csproj",
+  "projectFilePath": "D:\\github\\test\\study\\TestApplication\\TestApplication\\TestApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs2019\\TestApplication\\TestApplication\\TestApplication.csproj": {}
+    "D:\\github\\test\\study\\TestApplication\\TestApplication\\TestApplication.csproj": {}
   },
   "projects": {
-    "D:\\vs2019\\TestApplication\\TestApplication\\TestApplication.csproj": {
+    "D:\\github\\test\\study\\TestApplication\\TestApplication\\TestApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs2019\\TestApplication\\TestApplication\\TestApplication.csproj",
+        "projectUniqueName": "D:\\github\\test\\study\\TestApplication\\TestApplication\\TestApplication.csproj",
         "projectName": "TestApplication",
-        "projectPath": "D:\\vs2019\\TestApplication\\TestApplication\\TestApplication.csproj",
+        "projectPath": "D:\\github\\test\\study\\TestApplication\\TestApplication\\TestApplication.csproj",
         "packagesPath": "C:\\Users\\我的电脑\\.nuget\\packages\\",
-        "outputPath": "D:\\vs2019\\TestApplication\\TestApplication\\obj\\",
+        "outputPath": "D:\\github\\test\\study\\TestApplication\\TestApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

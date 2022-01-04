@@ -12,20 +12,11 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-
             var paints = new List<int>();
 
             paints.Add(1);
 
-            //paints.Add(2);
-
             var strpaint = String.Join(',', paints.ToArray());
-
-
-
-
-
-
 
             Person[] persons = new Person[]
                 {

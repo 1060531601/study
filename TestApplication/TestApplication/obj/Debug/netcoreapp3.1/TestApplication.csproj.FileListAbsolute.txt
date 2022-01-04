@@ -11,3 +11,16 @@ D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplicatio
 D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
 D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
 D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.exe
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.dll
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.pdb
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csprojAssemblyReference.cache
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
