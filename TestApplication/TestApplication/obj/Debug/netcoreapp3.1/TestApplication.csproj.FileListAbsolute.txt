@@ -1,0 +1,13 @@
+D:\vs2019\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.exe
+D:\vs2019\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+D:\vs2019\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+D:\vs2019\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+D:\vs2019\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.dll
+D:\vs2019\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.pdb
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csprojAssemblyReference.cache
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
+D:\vs2019\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
