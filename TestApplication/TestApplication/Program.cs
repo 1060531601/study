@@ -139,8 +139,6 @@ namespace TestApplication
 
         }
 
-        
-
         private static DateTime getTime(DateTime date)
         {
             DateTime returnDateTime =  date;
