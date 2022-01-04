@@ -1,0 +1,10 @@
+D:\vs2019\SendMessage\SendMessage\bin\Debug\SendMessage.exe.config
+D:\vs2019\SendMessage\SendMessage\bin\Debug\SendMessage.exe
+D:\vs2019\SendMessage\SendMessage\bin\Debug\SendMessage.pdb
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.csprojAssemblyReference.cache
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.Form1.resources
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.Properties.Resources.resources
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.GenerateResource.cache
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.csproj.CoreCompileInputs.cache
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.exe
+D:\vs2019\SendMessage\SendMessage\obj\Debug\SendMessage.pdb
