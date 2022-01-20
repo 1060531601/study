@@ -12,6 +12,10 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
+
+            var intarry = new int[5];
+
+
             var paints = new List<int>();
 
             paints.Add(1);
