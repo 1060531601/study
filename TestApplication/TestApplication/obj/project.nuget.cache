@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "p5qN/eIReg2bKHOkPl9NT79+bIyBtXR2mxANExrt6IpuuY+CxZDHD+BoWJl5CKJOwRZUdVUMOoqtrLWCGTTTew==",
+  "dgSpecHash": "LfNEthcJQHeP6CuUzIKZwaFeh8ThcpA3O3bt6LaGr17qHuYtdZKpmw0wt+7GMqJiUf3ZF8kLEDeNXZxTx6BVqA==",
   "success": true,
   "projectFilePath": "D:\\github\\test\\study\\TestApplication\\TestApplication\\TestApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\我的电脑\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\我的电脑\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

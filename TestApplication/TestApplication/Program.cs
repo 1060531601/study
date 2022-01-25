@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing.Printing;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
@@ -15,6 +16,16 @@ namespace TestApplication
 
             var intarry = new int[5];
 
+            var settings = new PrinterSettings();
+
+            var Paper = new PaperSize();
+
+            var kind = ((int)PaperKind.A5);
+
+            var paperkind = ((int)PaperKind.A5).ToString();
+
+            Paper.RawKind = kind;
+            settings.DefaultPageSettings.PaperSize = Paper;
 
             var paints = new List<int>();
 

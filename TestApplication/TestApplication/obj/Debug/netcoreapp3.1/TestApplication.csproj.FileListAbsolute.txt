@@ -20,7 +20,13 @@ D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Tes
 D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csprojAssemblyReference.cache
 D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
 D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
-D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
 D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
 D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
 D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\github\test\study\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+D:\github\test\study\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CopyComplete
