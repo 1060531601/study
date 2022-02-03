@@ -13,8 +13,54 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
+           var  dateTo = new DateTime?();
+
+            try
+            {
+               dateTo = new DateTime(2001, 0, 0);
+            }
+            catch (Exception e)
+            {
+                dateTo =  null;
+            }
+
+
+            var defaulttime = default(DateTime);
+
+            var mintime = DateTime.MinValue;
+
+
+            var lissssst = new Person(true);
+
+            var personsss = lissssst.getpersonlist();
+
+            Person[] persons = new Person[]
+             {
+        new Person{ CityID = 1, Name = "ABC" },
+        new Person{ CityID = 1, Name = "EFG" },
+        new Person{ CityID = 2, Name = "HIJ" },
+        new Person{ CityID = 3, Name = "KLM" },
+        new Person{ CityID = 3, Name = "NOP" },
+        new Person{ CityID = 4, Name = "QRS" },
+        new Person{ CityID = 5, Name = "TUV" }
+             };
+            
+            var listPersons = new List<Person>();
+            listPersons.AddRange(persons);
+            var liPerson = listPersons.FirstOrDefault();
+
+            listPersons.Remove(listPersons.FirstOrDefault());
+
+
 
             var intarry = new int[5];
+
+
+            var datears = DateTime.Now;
+
+            var monars = datears.Month;
+
+            var dayars = datears.Day;
 
             var settings = new PrinterSettings();
 
@@ -32,17 +78,6 @@ namespace TestApplication
             paints.Add(1);
 
             var strpaint = String.Join(',', paints.ToArray());
-
-            Person[] persons = new Person[]
-                {
-        new Person{ CityID = 1, Name = "ABC" },
-        new Person{ CityID = 1, Name = "EFG" },
-        new Person{ CityID = 2, Name = "HIJ" },
-        new Person{ CityID = 3, Name = "KLM" },
-        new Person{ CityID = 3, Name = "NOP" },
-        new Person{ CityID = 4, Name = "QRS" },
-        new Person{ CityID = 5, Name = "TUV" }
-                };
 
             var datetime = DateTime.Now.ToString("yyyyMMdd");
 
