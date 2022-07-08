@@ -18,7 +18,7 @@ namespace TestApplication
 
             var intnum1 = Convert.ToInt32("2,220");
             var intnum2 = Convert.ToInt32("2,220");
-
+            var intnum4 = Convert.ToInt32("2,220");
             var  dateTo = new DateTime?();
 
             try
