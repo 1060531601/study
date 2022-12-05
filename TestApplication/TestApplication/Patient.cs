@@ -4,13 +4,11 @@ using System.Text;
 
 namespace TestApplication
 {
-    public class Patient : Student
+    public class Patient 
     {
         public int id { set; get; }
 
-        public Patient(string country) : base(country)
-        {
-
-        }
+        public string Name { set; get; }
+       
     }
 }
